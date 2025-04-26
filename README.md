@@ -1,4 +1,11 @@
 ## Hi there 👋
+# My Portfolio Website
+
+Welcome to my personal portfolio website!  
+Here you can find my artworks, design projects, student works, and upcoming events.
+
+Built using HTML, CSS, and a little JavaScript.  
+Designed for mobile first, then expanded for web.
 
 <!--
 **Simostoya/Simostoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
